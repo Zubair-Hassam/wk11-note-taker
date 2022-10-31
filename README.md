@@ -21,9 +21,9 @@ WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
 ## Screenshots of site 
-![Screenshot of website 1]()
-![Screenshot of website 2]()
+![Screenshot of website 1](./Info/Screen%20Shot%202022-10-31%20at%209.39.47%20pm.png)
+![Screenshot of website 2](./Info/Screen%20Shot%202022-10-31%20at%209.39.59%20pm.png)
 
 ## Links 
 [GitHub Website](https://github.com/Zubair-Hassam/wk11-note-taker).
-[Homework Site]().
+[Homework Site](https://zubair-hassam.github.io/wk11-note-taker/).
